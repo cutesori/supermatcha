@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/supermatcha/static/css/main.69622509.css",
-    "main.js": "/supermatcha/static/js/main.2fafe24e.js",
+    "main.css": "/supermatcha/static/css/main.60b5869e.css",
+    "main.js": "/supermatcha/static/js/main.b33478bf.js",
     "static/js/453.0cc0ac16.chunk.js": "/supermatcha/static/js/453.0cc0ac16.chunk.js",
     "index.html": "/supermatcha/index.html",
-    "main.69622509.css.map": "/supermatcha/static/css/main.69622509.css.map",
-    "main.2fafe24e.js.map": "/supermatcha/static/js/main.2fafe24e.js.map",
+    "main.60b5869e.css.map": "/supermatcha/static/css/main.60b5869e.css.map",
+    "main.b33478bf.js.map": "/supermatcha/static/js/main.b33478bf.js.map",
     "453.0cc0ac16.chunk.js.map": "/supermatcha/static/js/453.0cc0ac16.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69622509.css",
-    "static/js/main.2fafe24e.js"
+    "static/css/main.60b5869e.css",
+    "static/js/main.b33478bf.js"
   ]
 }
